@@ -19,7 +19,7 @@ Here is a closer look at the user interface and key sections of the theme:
 
 <p align="center">
   <kbd>
-    <img src="./images/1.png" alt="MangaTheme Screenshot 1" width="600">
+    <img src="./images/1.jpg" alt="MangaTheme Screenshot 1" width="600">
   </kbd>
   <br>
   <em>Home Page - Interactive Manga Catalog & Custom Filtering</em>
@@ -27,7 +27,7 @@ Here is a closer look at the user interface and key sections of the theme:
 
 <p align="center">
   <kbd>
-    <img src="./images/2.png" alt="MangaTheme Screenshot 2" width="600">
+    <img src="./images/2.jpg" alt="MangaTheme Screenshot 2" width="600">
   </kbd>
   <br>
   <em>Details Page - Comprehensive information and chapters list</em>
@@ -35,7 +35,7 @@ Here is a closer look at the user interface and key sections of the theme:
 
 <p align="center">
   <kbd>
-    <img src="./images/3.png" alt="MangaTheme Screenshot 3" width="600">
+    <img src="./images/3.jpg" alt="MangaTheme Screenshot 3" width="600">
   </kbd>
   <br>
   <em>Reader Mode - Immersive experience with dark theme optimization</em>
