@@ -1,10 +1,4 @@
-<p align="center">
-  <a href="https://graymh22.github.io/MANGATHEME/">
-    <img alt="MangaTheme Home Screenshot" src="images/1.png" width="700">
-  </a>
-</p>
-
-<h1 align="center">MANGATHEME 📚</h1>
+<h1 align="center">MANGATHEME</h1>
 
 <p align="center">
   <strong>A premium, modern, and immersive WordPress theme designed specifically for manga readers.</strong>
@@ -19,29 +13,37 @@
 
 ---
 
-## 📱 Theme Screenshots
+## Theme Screenshots
 
 Here is a closer look at the user interface and key sections of the theme:
 
 <p align="center">
   <kbd>
-    <img src="images/2.png" alt="MangaTheme Screenshot 2" width="600">
+    <img src="./images/1.png" alt="MangaTheme Screenshot 1" width="600">
   </kbd>
   <br>
-  <em>Interactive Manga Catalog & Custom Filtering</em>
+  <em>Home Page - Interactive Manga Catalog & Custom Filtering</em>
 </p>
 
 <p align="center">
   <kbd>
-    <img src="images/3.png" alt="MangaTheme Screenshot 3" width="600">
+    <img src="./images/2.png" alt="MangaTheme Screenshot 2" width="600">
   </kbd>
   <br>
-  <em>Immersive Reader Mode with Dark Theme Optimization</em>
+  <em>Details Page - Comprehensive information and chapters list</em>
+</p>
+
+<p align="center">
+  <kbd>
+    <img src="./images/3.png" alt="MangaTheme Screenshot 3" width="600">
+  </kbd>
+  <br>
+  <em>Reader Mode - Immersive experience with dark theme optimization</em>
 </p>
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 * **Optimized Dark Mode:** Specifically selected color palettes to prevent eye strain during long reading sessions.
 * **Seamless Navigation:** Extremely fast page transitions powered by modern JavaScript.
@@ -50,7 +52,7 @@ Here is a closer look at the user interface and key sections of the theme:
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 <p align="left">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
