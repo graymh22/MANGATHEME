@@ -22,7 +22,7 @@ Had l-images t9der t-lo7hom f l-dossier `images/` dyal l-projet bach y-banou dir
 
 <p align="center">
   <kbd>
-    <img src="images/screenshot1.png" alt="Page d'accueil" width="600">
+    <img src="images/1.png" alt="Page d'accueil" width="600">
   </kbd>
   <br>
   <em>Aperçu de la Page d'accueil - Design sombre et épuré</em>
